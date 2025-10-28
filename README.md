@@ -5,7 +5,10 @@
 正在做，会上传到B站
 
 感谢开源
+
 https://github.com/xvrsl/duckov_modding
+
+https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview
 
 ## 描述
 
