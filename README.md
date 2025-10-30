@@ -8,6 +8,8 @@
 
 https://github.com/xvrsl/duckov_modding
 
+https://github.com/xiaomao-miao/duckovAPI
+
 https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview
 
 ## 描述
