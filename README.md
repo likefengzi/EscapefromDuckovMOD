@@ -2,7 +2,9 @@
 
 ## 教程
 
-正在做，会上传到B站
+教程是一个合集
+
+https://www.bilibili.com/video/BV18p1TBSErv
 
 感谢开源
 
